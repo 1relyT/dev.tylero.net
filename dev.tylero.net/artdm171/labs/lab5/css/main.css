@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Karma:wght@400;600;700&display=swap');
+
+html, body{
+    padding:0;
+    margin:0;
+    font-family: 'Karma';
+}
+
+header, nav, main, aside, footer{
+    padding: 20px;
+}
+
+header{
+    background: rgba(81,93,145);
+    color: white;
+    padding: 5px;
+}
+
+nav{
+    background: rgba(255,213,170);
+    padding-left: 0;
+    padding-right:0;
+
+}
+
+main{
+    background: #ffcc5c;
+    background: rgba(255,213,170);
+}
+
+p{
+    font-family: 'Karma';
+           font-style: bold;
+           color: white;
+           padding: 10px;
+           background: rgba(81,93,145);
+           text-align: left;
+           margin: 2px;
+           font-size: 20px;
+           border-radius: 5px;
+           border-style: groove;
+}
+
+h1{
+           font-family: 'Karma';
+           font-style: bold;
+           color: white;
+           padding: 1rem;
+           background: rgba(81,93,145);
+           text-align: center;
+           margin: 2px;
+           font-size: 35px;
+           text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+h2{
+           font-family: 'Karma';
+           color: white;
+           padding: 1rem;
+           background: rgba(81,93,145);
+           text-align: center;
+           margin: 2px;
+           font-size: 25px;
+           border-radius: 5px;
+           border-style: inset;
+}
+
+h3{
+           font-family: 'Karma';
+           font-style: bold;
+           color: black;
+           padding: 10px;
+           background: rgba(255,255,255);
+           text-align: center;
+           margin: 2px;
+           font-size: 25px;
+           border-radius: 5px;
+           border-style: groove;
+}
+
+ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+    display:flex;
+}
+
+li{
+    margin:auto;
+    border-style: inset;
+    border-right: 0px;
+    border-top: 0px;
+    padding: 3px;
+}
+
+a{
+    color:white;
+    font-size: 20px;
+    color: black;
+}
+
+
+nav{
+    position:fixed;
+    width:100vw;
+    bottom:0;
+}
+
+.main{
+    padding-bottom:3rem;
+}
+
+
+html, body{
+    font-size:20px;
+}
+.main{
+        display: grid;
+        grid-template-columns: repeat(12, 1fr);
+        grid-template-rows: auto;
+        padding-bottom:0;
+    }
+    
+header{
+        grid-column: 1 / span 12;
+        }
+    
+nav{
+        position: static;
+        width: auto;
+        grid-column: 1 / span 12;
+    }
+
+main{
+        grid-column: 1 / span 12;
+    }
+@media screen and (min-width: 600px){}

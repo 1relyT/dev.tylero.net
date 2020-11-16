@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Raleway:wght@500&display=swap');
+
+
+       h1 {
+           font-family: 'Merriweather', serif; color: darkblue; padding: 1rem; background: rgba(170,157,151); margin: 1rem; border; border-radius: .5rem
+}
+       body {
+           font-family: 'Raleway', sans-serif; color: darkslategrey; background:rgba(199,211,229)
+}
+        aside {
+            font-family: 'Raleway', sans-serif; color: darkslategrey; padding: 1rem;
+}
+        figure {
+            font-family: 'Raleway', sans-serif; color: darkslategrey; padding: 1rem
+}
+       .link {
+           padding: .2rem; font-family: 'Raleway', sans-serif;; background:rgba(120,135,171); margin: 1rem; border-radius: 1rem
+}
+       .top01 {
+           border-radius: 50%;margin: 1 auto; padding: .5rem; background: rgba(120,135,171); margin: 1rem; border-radius: 3rem
+}
+       .top02 {
+           border-radius: 50%;margin: 1 auto; padding: .5rem; background: rgba(120,135,171); margin: 1rem; border-radius: 3rem
+}
+       .top03 {
+           border-radius: 50%;margin: 1 auto; padding: .5rem; background: rgba(120,135,171); margin: 1rem; border-radius: 3rem
+}
+       .top04 {
+           border-radius: 50%;margin: 1 auto; padding: .5rem; background: rgba(120,135,171); margin: 1rem; border-radius: 3rem
+}
+       .top05 {
+           border-radius: 50%;margin: 1 auto; padding: .5rem; background: rgba(120,135,171); margin: 1rem; border-radius: 3rem
+}
+       .top06 {
+           border-radius: 50%;margin: 1 auto; padding: .5rem; background: rgba(120,135,171); margin: 1rem; border-radius: 3rem
+}
+       .top07 {
+           border-radius: 50%;margin: 1 auto; padding: .5rem; background: rgba(120,135,171); margin: 1rem; border-radius: 3rem
+}
+       .top08 {
+           border-radius: 50%;margin: 1 auto; padding: .5rem; background: rgba(120,135,171); margin: 1rem; border-radius: 3rem
+}
+       .top09 {
+           border-radius: 50%;margin: 1 auto; padding: .5rem; background: rgba(120,135,171); margin: 1rem; border-radius: 3rem
+}
+       .top10 {
+           border-radius: 50%;margin: 1 auto; padding: .5rem; background: rgba(120,135,171); margin: 1rem; border-radius: 3rem
+}
+       .top11 {
+           border-radius: 50%;margin: 1 auto; padding: .5rem; background: rgba(120,135,171); margin: 1rem; border-radius: 3rem
+}
+       .top12 {
+           border-radius: 50%;margin: 1 auto; padding: .5rem; background: rgba(120,135,171); margin: 1rem; border-radius: 3rem
+}
